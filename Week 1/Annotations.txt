@@ -1,0 +1,25 @@
+- O que são variaveis ?
+     R: Espaços alocados na memória, ou seja, nomes simbólicos de valores
+
+- Para realizar uma atribuição em JavaScript, utiliza-se o símbolo '='
+
+- Tipos de dados em JavaScript: number, string, boolean, null, undefined, object e array
+
+- Uma string em JavaScript é uma sequencia de caracteres
+
+- Em JavaScrit pode-se utilizar aspa simples e aspas duplas para uma string
+
+- Objetos em JavaScript, assim como em muitas outras linguagens de programação, podem ser comparados com objetos na vida real. O conceito de objetos em JavaScript pode ser entendido com objetos tangíveis da vida real.
+
+- Exemplo de criação de objeto: 
+     var meuCarro = new Object(); //ou var meuCarro = {};
+     meuCarro.fabricacao = "Ford";
+     meuCarro.modelo = "Mustang";
+     meuCarro.ano = 1969;
+
+- Um array é uma lista de valores
+
+- Exemplo de criação de um array:
+     var numeros = [1, 2, 3, 4, 5];
+
+- Os arrays em JavaScript são objetos
