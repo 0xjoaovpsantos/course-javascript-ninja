@@ -1,0 +1,20 @@
+- Supondo que x vale 10: 
+  x = x++;
+  O valor de x vai continuar sendo 10, só iria mudar o valor caso o operador seja de pré-incremento, ou se a variavel de pós-incremento seja diferente da variavel que esteja recebendo o valor da expressão
+
+- Operadores lógicos: Combinam ou invertem valores booleanos
+  &&(and), ||(or), !(not)
+
+- Operadores unários: +, - (Um operador que trabalha apenas com um operando)
+
+- Estrutura Léxica: Um conjunto de regras que vão definir quais são ou qual modo que vai ser usado apra escrever na linguagem.
+
+-Case Sensitive: Diferencia letras maiusculas de letras minusculas
+
+- Comentários: de linha //, de bloco /* */
+
+- Literais: Valores que aparecem diretamente no programa
+
+- Identificadores: Podem inicar com _ ou $, letras de 'a' a 'z', letras de 'A' a 'Z', digitos de 0 a 9, qualquer caracter unicode
+
+- Palavras reservadas: break, case, class, catch, const, continue, etc
