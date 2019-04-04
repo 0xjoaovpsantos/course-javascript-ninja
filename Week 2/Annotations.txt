@@ -18,3 +18,6 @@
 - Identificadores: Podem inicar com _ ou $, letras de 'a' a 'z', letras de 'A' a 'Z', digitos de 0 a 9, qualquer caracter unicode
 
 - Palavras reservadas: break, case, class, catch, const, continue, etc
+
+- Instrução Condicional - Permite tomar decisão fundamentada em alguma validação
+
